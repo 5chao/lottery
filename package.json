@@ -1,0 +1,26 @@
+{
+  "name": "realtime-app-ably-next-prisma-planetscale-starter-project",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ably-labs/react-hooks": "^2.0.11",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.4.0",
+    "@prisma/client": "^4.8.1",
+    "ably": "^1.2.34",
+    "next": "^12.1.6",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "8.8.0",
+    "eslint-config-next": "12.0.10",
+    "prisma": "^3.10.0"
+  }
+}
